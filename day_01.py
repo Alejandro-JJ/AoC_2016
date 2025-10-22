@@ -28,3 +28,4 @@ for turn, steps in data:
     break  # Break the outer loop if a duplicate is found
 
 print(f'Ended up {abs(coord[0]) + abs(coord[1])} blocks away.')
+
